@@ -3,10 +3,10 @@
 using namespace std;
 int main()
 {
+    while(true){
+
     WinExec("calc",1);
-    Sleep(100);
-    WinExec("notepad",2);
 
-
+                 }
     return 0;
 }
